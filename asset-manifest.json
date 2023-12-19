@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactToDoList-stylesMethods-/static/css/main.181cb20b.css",
+    "main.js": "/reactToDoList-stylesMethods-/static/js/main.2cbc1967.js",
+    "index.html": "/reactToDoList-stylesMethods-/index.html",
+    "main.181cb20b.css.map": "/reactToDoList-stylesMethods-/static/css/main.181cb20b.css.map",
+    "main.2cbc1967.js.map": "/reactToDoList-stylesMethods-/static/js/main.2cbc1967.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181cb20b.css",
+    "static/js/main.2cbc1967.js"
+  ]
+}
